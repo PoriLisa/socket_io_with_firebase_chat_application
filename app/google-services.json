@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "633768490967",
+    "firebase_url": "https://chatapp-ce7de.firebaseio.com",
+    "project_id": "chatapp-ce7de",
+    "storage_bucket": "chatapp-ce7de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633768490967:android:8163faa68f090c5210fd92",
+        "android_client_info": {
+          "package_name": "com.example.socket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633768490967-t2nccc2ihist31otiadqvgsa4o25aigr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHGUz4pJWv7oU9rEbDx8Me6W2kFkUl6rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633768490967-t2nccc2ihist31otiadqvgsa4o25aigr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633768490967:android:bfd8f291789aa47210fd92",
+        "android_client_info": {
+          "package_name": "com.lei.mykha.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633768490967-t2nccc2ihist31otiadqvgsa4o25aigr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHGUz4pJWv7oU9rEbDx8Me6W2kFkUl6rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633768490967-t2nccc2ihist31otiadqvgsa4o25aigr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
